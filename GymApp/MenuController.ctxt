@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MenuController()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MenuController\r\n
+comment1.params=
+comment1.target=int\ mainMenu()
+comment1.text=\r\n\ mainMenu()\ -\ This\ method\ displays\ the\ menu\ for\ the\ application,\ \r\n\ reads\ the\ menu\ option\ that\ the\ user\ entered\ and\ returns\ it.\r\n\ \r\n\ @return\ \ \ \ \ the\ users\ menu\ choice\r\n
+comment2.params=
+comment2.target=void\ runMenu()
+comment2.text=\r\n\ This\ is\ the\ method\ that\ controls\ the\ loop.\r\n
+comment3.params=
+comment3.target=void\ addMember()
+comment3.text=\r\n\ gather\ the\ member\ data\ from\ the\ user\ and\ create\ a\ new\ member.\r\n
+comment4.params=
+comment4.target=void\ bmiCategory()
+comment4.text=\r\n\ Helper\ method\ to\ perform\ menu\ option\ 6\r\n
+numComments=5
